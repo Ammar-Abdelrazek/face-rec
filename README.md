@@ -10,6 +10,8 @@ the folder of the projcet should contain the folder "imagesAttendance" which wil
 ![Diagram](imgs/folder.png)
 
 in "imagesAttendance" we put the students photo named with the following format: "Name Surname-StudentNO.jpg".
+
+
 ![Diagram](imgs/data.png)
 
 When we run the program, the camera window pops up and the program starts recognizing the student:
