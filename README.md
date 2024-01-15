@@ -9,15 +9,15 @@ the folder of the projcet should contain the folder "imagesAttendance" which wil
 ![Diagram](imgs/folder.png)
 
 in "imagesAttendance" we put the students photo named with the following format: "Name Surname-StudentNO.jpg" The extension of the photo can either be jpg or jpeg.
-![Diagram](data/folder.png)
+![Diagram](imgs/data.png)
 
 When we run the program, the camera window pops up and the program starts recognizing the student:
 
-![Diagram](record/detect.png)
+![Diagram](imgs/detect.png)
 
 The face detection algorithm works and it draws a rectangle around the recognized face and then the face recognition algorithm identifies the student and writes his/her name & surname under the rectangle.
 After that, if we open the file Attendance.csv, we can see that the student's name, surname and his/her student number have been written with the exact date amd time of attendance.
-![Diagram](record/folder.png)
+![Diagram](imgs/record.png)
 
 The system also manages to recognize the students from different angles:
 ![Diagram](angles/folder.png)
