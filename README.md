@@ -1,2 +1,2 @@
 # face-rec
-Class Attendance system Using Face Recognition
+Class Attendance System Using Face Recognition
