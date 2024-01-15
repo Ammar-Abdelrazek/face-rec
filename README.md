@@ -8,7 +8,8 @@ how to use it:
 the folder of the projcet should contain the folder "imagesAttendance" which will be the database for students, "Attendance,csv" in which the reak-time student attendance will automaticly be recorded.
 ![Diagram](imgs/folder.png)
 
-in "imagesAttendance" we put the students photo named with the following format: "Name Surname-StudentNO.jpg" The extension of the photo can either be jpg or jpeg.
+in "imagesAttendance" we put the students photo named with the following format: "Name Surname-StudentNO.jpg" 
+The extension of the photo can either be jpg or jpeg.
 ![Diagram](imgs/data.png)
 
 When we run the program, the camera window pops up and the program starts recognizing the student:
@@ -20,7 +21,7 @@ After that, if we open the file Attendance.csv, we can see that the student's na
 ![Diagram](imgs/record.png)
 
 The system also manages to recognize the students from different angles:
-![Diagram](angles/folder.png)
+![Diagram](imgs/angles.png)
 
 
 The libraries used in the project: CV2, numpy, face-recognition, os, and datetime.
